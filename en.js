@@ -16,7 +16,7 @@ const _card_learning_goals_text = "Open the Google Sheets document, which contai
 const _card_ml4kids = "Machine Learning with Scratch";
 const _card_ml4kids_content = "'Machine Learning for Kids' project allows students to quickly use machine learning techniques in Scratch projects.";
 const _card_license = "License and Sharing";
-const _card_license_content = "";
+const _card_license_content = "This work is licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.tr'>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a> License";
 
 const _module_dur = "Recommended Course Duration: {0} hours";
 
